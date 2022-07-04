@@ -71,7 +71,7 @@ const Sidebar = ({ className }) => {
   			<div className={styles.menu}>
 					<Link href='/'>
 						<div className={styles.menuItem}>
-							<Image src={logo} height={30} width={30} className={styles.amazonLogo} />
+							<Image src={logo} alt='amazon' height={30} width={30} className={styles.amazonLogo} />
 							My Amazon
 							<br /> board
 						</div>
