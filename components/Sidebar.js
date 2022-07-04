@@ -1,4 +1,4 @@
-import React, { PropTypes, Fragment, useContext } from 'react';
+import React, { Fragment, useContext } from 'react';
 
 import Image from 'next/image';
 import Link from 'next/link';
